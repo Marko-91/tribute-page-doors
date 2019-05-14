@@ -1,0 +1,17 @@
+#header > h1 {
+  line-height: 4.5rem;
+  text-align: center;
+}
+
+#tribute-info {
+  margin-left: 2rem;
+}
+
+#albums {
+  display: block;
+}
+
+body {
+  overflow-x: hidden;
+}
+
